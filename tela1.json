@@ -1,0 +1,19 @@
+{
+  "settingsReloadIntervalMinutes": 5,
+  "fullscreen": false,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://app.powerbi.com/groups/f943fb75-3c15-4c88-89d0-62b116737f2d/reports/d2d3a2fe-0da6-4554-811b-7e625c7046cf/cce12ef0c515d1a545d6?chromeless=true",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 30
+    },
+    {
+      "url": "https://www.patreon.com/kevdev",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
