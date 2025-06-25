@@ -1,0 +1,31 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": true,
+  "websites": [
+
+    {
+      "url": "https://grafana.b1soft.io/public-dashboards/43b6e2d846a7486dac86a769e8976b69?orgId=1&from=now-30d&to=now&refresh=5s&timezone=browser",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
+      "url": "https://app.powerbi.com/groups/f943fb75-3c15-4c88-89d0-62b116737f2d/reports/d2d3a2fe-0da6-4554-811b-7e625c7046cf/cce12ef0c515d1a545d6?chromeless=true",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
+       "url": "https://app.powerbi.com/groups/c3290536-fb7c-4de2-b21f-9d74b57e4d40/reports/7ce3e3b8-2db3-4319-969a-067cc40b7b0e/0c28170867dfa14c527f?chromeless=true",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 300
+
+    },
+    {
+      "url": "https://app.powerbi.com/groups/c3290536-fb7c-4de2-b21f-9d74b57e4d40/reports/530a15ce-8d0d-447d-8412-7c89c2b9477c/e145797a15d36b5848a3?chromeless=true",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 300
+    }
+  ]
+}
